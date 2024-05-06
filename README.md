@@ -11,7 +11,6 @@
         <li>Question base (preguntas para recopilar información)</li>
         <li>Driver (la interfaz de interacción con el usuario)</li>
     </ul>
-
     <p> Asimismo, se pide desarrollar un informe que debe contar con los siguientes elementos: </p>
     <ul>
         <li>Introducción</li>
