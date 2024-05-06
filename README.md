@@ -18,11 +18,15 @@
         <li>Resultados </li>
         <li>Conclusiones </li>
     </ul>
-    <p> En este sentido, el sistema experto propuesto utiliza un conjunto de reglas para determinar qué medicamento
+    <p> En este sentido, se propone un sistema experto que determina qué medicamentos
 recomendar en función de las respuestas a una serie de preguntas sobre síntomas y enferme-
-dades.</p>
+dades. Este sistema se basa en un conjunto de reglas definidas que evalúan
+las respuestas del usuario a una serie de preguntas relacionadas a su estado de salud actual.
+Estas preguntas abarcan desde síntomas generales, hasta condiciones médicas específicas. El
+motor de inferencia del sistema utiliza estas respuestas para activar reglas específicas que con-
+cluyen con la recomendación de un medicamento o un conjunto de medicamentos que correspondan a las necesidades del usuario </p>
     <h2> Importante... </h2>
-<p>Es importante destacar que el sistema no se centra en determinar si el medicamento
+<p>El sistema no se centra en determinar si el medicamento
 recomendado es el más indicado para una condición específica. La finalidad del sistema es
 demostrar que puede generar recomendaciones basadas en una base de datos de información
 preestablecida, y probar su funcionalidad, mas no para ofrecer consejos médicos verificados.
