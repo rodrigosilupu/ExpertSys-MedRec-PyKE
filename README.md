@@ -1,7 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+    <meta charset="UTF-8">
     <title>Práctica 1: Sistema Experto de Recomendación de Medicamentos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        img {
+            margin-top: 20px;
+            width: 100%; /* Ajusta las imágenes a la anchura del contenedor */
+            max-width: 600px; /* Establece una anchura máxima */
+            height: auto; /* Mantiene la proporción de las imágenes */
+        }
+    </style>
 </head>
 <body>
     <h1>Práctica 1: Sistema Experto de Recomendación de Medicamentos</h1>
@@ -22,13 +46,21 @@
         <li><strong>Driver:</strong> Interfaz de interacción con el usuario.</li>
     </ul>
 
-    <h2>A tener en cuenta...</h2>
+    <h2>Resultados</h2>
     <p>
-        Es importante subrayar que esta implementación no está diseñada para ofrecer consejos médicos verificados. Por lo tanto, se recomienda encarecidamente que cualquier aplicación real de este sistema en entornos clínicos sea supervisada y validada por especialistas en el área médica. Este enfoque garantiza la seguridad y la precisión en la toma de decisiones médicas.
-
+        A continuación se presentan algunas capturas de pantalla que ilustran la ejecución del sistema experto, destacando su funcionalidad y eficacia en la generación de recomendaciones de medicamentos:
     </p>
     <img src="captura1.png" alt="Captura de pantalla 1">
     <img src="captura2.png" alt="Captura de pantalla 2">
 
+    <h2>Conclusiones</h2>
+    <p>
+        Durante el desarrollo de este sistema experto, se enfrentaron diversos desafíos, como la definición de reglas claras y precisas, y la interacción efectiva con el usuario. Las lecciones aprendidas incluyen la importancia de una buena estructuración del conocimiento y cómo las mejoras en la interfaz pueden facilitar el uso del sistema. Para futuras implementaciones, se considerará la incorporación de más reglas y una validación más exhaustiva.
+    </p>
+
+    <p>
+        Es importante destacar que el sistema no está diseñado para proporcionar consejos médicos verificados y su uso en entornos clínicos debe ser supervisado por especialistas médicos.
+    </p>
 </body>
 </html>
+
