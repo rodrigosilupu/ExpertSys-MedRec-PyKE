@@ -19,8 +19,7 @@
         <li>Conclusiones </li>
     </ul>
     <p> En este sentido, se propone un sistema experto que determina qué medicamentos
-recomendar en función de las respuestas a una serie de preguntas sobre síntomas y enferme-
-dades. Este sistema se basa en un conjunto de reglas definidas que evalúan
+recomendar en función de las respuestas a una serie de preguntas sobre síntomas y enfermedades. Este sistema se basa en un conjunto de reglas definidas que evalúan
 las respuestas del usuario a una serie de preguntas relacionadas a su estado de salud actual.
 Estas preguntas abarcan desde síntomas generales, hasta condiciones médicas específicas. El
 motor de inferencia del sistema utiliza estas respuestas para activar reglas específicas que concluyen con la recomendación de un medicamento o un conjunto de medicamentos que correspondan a las necesidades del usuario </p>
