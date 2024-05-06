@@ -18,7 +18,17 @@
         <li>Resultados </li>
         <li>Conclusiones </li>
     </ul>
-
+    <p> En este sentido, el sistema experto propuesto utiliza un conjunto de reglas para determinar qué medicamento
+recomendar en función de las respuestas a una serie de preguntas sobre síntomas y enferme-
+dades.</p>
+    <h2> Importante... </h2>
+<p>Es importante destacar que el sistema no se centra en determinar si el medicamento
+recomendado es el más indicado para una condición específica. La finalidad del sistema es
+demostrar que puede generar recomendaciones basadas en una base de datos de información
+preestablecida, y probar su funcionalidad, mas no para ofrecer consejos médicos verificados.
+Por ello, se recomienda encarecidamente que cualquier implementación real de este sistema en
+entornos clínicos sea acompañada por la supervisión y validación de especialistas en el área
+médica </p>
    
 </body>
 </html>
