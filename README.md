@@ -14,7 +14,7 @@
     <p> Asimismo, se pide desarrollar un informe que debe contar con los siguientes elementos: </p>
     <ul>
         <li>Introducción</li>
-        <li>Descripción del Sistema Experto (reglas de inferencia)</li>
+        <li>Descripción del Sistema Experto</li>
         <li>Resultados </li>
         <li>Conclusiones </li>
     </ul>
