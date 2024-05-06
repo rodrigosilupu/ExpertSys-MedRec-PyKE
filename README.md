@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>README - Práctica 1: Sistema Experto</title>
-</head>
+
 <body>
     <h1>Práctica 1: IA Fundamentals</h1>
     <p>Este archivo contiene la Práctica 1 del curso "IA Fundamentals" en la maestría de Ciencia de Datos e Inteligencia Artificial de la Universidad de Ingeniería y Tecnología. La evaluación consiste en la implementación de un sistema experto en PyKE.</p>
