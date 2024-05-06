@@ -3,13 +3,13 @@
 
 <body>
     <h1>Práctica 1: IA Fundamentals</h1>
-    <p>Este archivo contiene la Práctica 1 del curso "IA Fundamentals" en la maestría de Ciencia de Datos e Inteligencia Artificial de la Universidad de Ingeniería y Tecnología. La evaluación consiste en la implementación de un sistema experto en PyKE, de tema libre. Asimismo, se pide realizar un informe que debe contener lo siguiente: </p>
+    <p>Este archivo contiene la Práctica 1 del curso "IA Fundamentals" en la maestría de Ciencia de Datos e Inteligencia Artificial de la Universidad de Ingeniería y Tecnología. La evaluación consiste en la implementación de un sistema experto en PyKE, de tema libre. Asimismo, se pide realizar un informe que debe contener lo siguiente: 
 
     - Introducción: describa el contexto y motivaci´on del sistema experto 
     - Descripción del sistema experto
     - Resultados: muestre capturas de pantalla de la ejecución del sistema experto
     - Conclusiones.
-    
+    </p>
     <h2>Introducción</h2>
     <p>Se describe el contexto y la motivación del sistema experto, explicando el problema o área de conocimiento abordado y su relevancia en el ámbito de la inteligencia artificial.</p>
     <h2>Descripción del Sistema Experto</h2>
