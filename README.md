@@ -2,65 +2,27 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Práctica 1: Sistema Experto de Recomendación de Medicamentos</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        img {
-            margin-top: 20px;
-            width: 100%; /* Ajusta las imágenes a la anchura del contenedor */
-            max-width: 600px; /* Establece una anchura máxima */
-            height: auto; /* Mantiene la proporción de las imágenes */
-        }
-    </style>
+    <title>README - Práctica 1: Sistema Experto</title>
 </head>
 <body>
-    <h1>Práctica 1: Sistema Experto de Recomendación de Medicamentos</h1>
-    <p>Curso: IA Fundamentals - Maestría de Ciencia de Datos e Inteligencia Artificial</p>
-    <p>Universidad de Ingeniería y Tecnología</p>
-
+    <h1>Práctica 1: IA Fundamentals</h1>
+    <p>Este archivo contiene la Práctica 1 del curso "IA Fundamentals" en la maestría de Ciencia de Datos e Inteligencia Artificial de la Universidad de Ingeniería y Tecnología. La evaluación consiste en la implementación de un sistema experto en PyKE.</p>
     <h2>Introducción</h2>
-    <p>
-        Esta práctica consiste en la implementación de un sistema experto en PyKE para recomendar medicamentos basado en respuestas a preguntas sobre síntomas y enfermedades. El proyecto explora el uso de sistemas expertos dentro de la inteligencia artificial y subraya su relevancia en aplicaciones prácticas, aunque específicamente en un contexto académico y no clínico.
-    </p>
-
+    <p>Se describe el contexto y la motivación del sistema experto, explicando el problema o área de conocimiento abordado y su relevancia en el ámbito de la inteligencia artificial.</p>
     <h2>Descripción del Sistema Experto</h2>
-    <h3>Componentes del Sistema</h3>
+    <p>Se detallan los componentes del sistema, incluyendo:</p>
     <ul>
-        <li><strong>Fact Base:</strong> Hechos conocidos utilizados por el sistema.</li>
-        <li><strong>Rule Base:</strong> Reglas de inferencia que guían la toma de decisiones.</li>
-        <li><strong>Question Base:</strong> Conjunto de preguntas para recopilar información relevante.</li>
-        <li><strong>Driver:</strong> Interfaz de interacción con el usuario.</li>
+        <li>Fact base (hechos conocidos)</li>
+        <li>Rule base (reglas de inferencia)</li>
+        <li>Question base (preguntas para recopilar información)</li>
+        <li>Driver (la interfaz de interacción con el usuario)</li>
     </ul>
-
     <h2>Resultados</h2>
-    <p>
-        A continuación se presentan algunas capturas de pantalla que ilustran la ejecución del sistema experto, destacando su funcionalidad y eficacia en la generación de recomendaciones de medicamentos:
-    </p>
-    <img src="captura1.png" alt="Captura de pantalla 1">
-    <img src="captura2.png" alt="Captura de pantalla 2">
-
+    <p>Se muestran capturas de pantalla que ilustran la ejecución del sistema experto, demostrando su funcionalidad y capacidad para resolver problemas específicos.</p>
     <h2>Conclusiones</h2>
-    <p>
-        Durante el desarrollo de este sistema experto, se enfrentaron diversos desafíos, como la definición de reglas claras y precisas, y la interacción efectiva con el usuario. Las lecciones aprendidas incluyen la importancia de una buena estructuración del conocimiento y cómo las mejoras en la interfaz pueden facilitar el uso del sistema. Para futuras implementaciones, se considerará la incorporación de más reglas y una validación más exhaustiva.
-    </p>
-
-    <p>
-        Es importante destacar que el sistema no está diseñado para proporcionar consejos médicos verificados y su uso en entornos clínicos debe ser supervisado por especialistas médicos.
-    </p>
+    <p>Se presentan las conclusiones obtenidas durante el desarrollo de la práctica, incluyendo reflexiones sobre los desafíos enfrentados, las lecciones aprendidas y las posibles mejoras para futuras implementaciones.</p>
+    <h2>Nota Importante</h2>
+    <p>El sistema experto propuesto se centra en la recomendación de medicamentos en función de las respuestas a una serie de preguntas sobre síntomas y enfermedades. Utiliza un conjunto de reglas para determinar cuál medicamento es más adecuado en cada caso. Sin embargo, es importante destacar que el sistema no tiene como objetivo determinar la idoneidad del medicamento recomendado para una condición médica específica.</p>
+    <p>Esta implementación no está diseñada para ofrecer consejos médicos verificados. Se recomienda encarecidamente que cualquier aplicación real de este sistema en entornos clínicos sea supervisada y validada por especialistas en el área médica.</p>
 </body>
 </html>
-
