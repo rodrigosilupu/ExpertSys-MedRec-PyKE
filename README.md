@@ -23,8 +23,7 @@ recomendar en función de las respuestas a una serie de preguntas sobre síntoma
 dades. Este sistema se basa en un conjunto de reglas definidas que evalúan
 las respuestas del usuario a una serie de preguntas relacionadas a su estado de salud actual.
 Estas preguntas abarcan desde síntomas generales, hasta condiciones médicas específicas. El
-motor de inferencia del sistema utiliza estas respuestas para activar reglas específicas que con-
-cluyen con la recomendación de un medicamento o un conjunto de medicamentos que correspondan a las necesidades del usuario </p>
+motor de inferencia del sistema utiliza estas respuestas para activar reglas específicas que concluyen con la recomendación de un medicamento o un conjunto de medicamentos que correspondan a las necesidades del usuario </p>
     <h2> Importante... </h2>
 <p>El sistema no se centra en determinar si el medicamento
 recomendado es el más indicado para una condición específica. La finalidad del sistema es
